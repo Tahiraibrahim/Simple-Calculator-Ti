@@ -1,0 +1,23 @@
+{
+  "name": "ti-simple-calculator-by-tahira",
+  "version": "2.0.3",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "bin": "tical-simple-calculator-by-ti.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tahira Ibrahim",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.12.7"
+  },
+  "dependencies": {
+    "@types/inquirer": "^9.0.7",
+    "inquirer": "^9.2.20"
+  }
+}
